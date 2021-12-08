@@ -1,0 +1,18 @@
+[2021-12-08 19:19:09]	link failed !, exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x015b3] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+
+[2021-12-08 19:20:03]	compilation failed at : "h:\AllProject\EIDE\judge gate\firmware\GD32VF103_standard_peripheral\Source\gd32vf103_dma.c", exit code: 1
+  at unify_builder.Program.compileByMulThread (System.Int32 thrNum, unify_builder.CmdGenerator+CmdInfo[] cmds, System.Collections.Generic.List`1[T] doneList) [0x000e4] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+  at unify_builder.Program.Main (System.String[] args) [0x0149e] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+
+[2021-12-08 19:20:44]	compilation failed at : "h:\AllProject\EIDE\judge gate\firmware\GD32VF103_standard_peripheral\Source\gd32vf103_fmc.c", exit code: 1
+  at unify_builder.Program.compileByMulThread (System.Int32 thrNum, unify_builder.CmdGenerator+CmdInfo[] cmds, System.Collections.Generic.List`1[T] doneList) [0x000e4] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+  at unify_builder.Program.Main (System.String[] args) [0x0149e] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+
+[2021-12-08 19:21:26]	compilation failed at : "h:\AllProject\EIDE\judge gate\source\main.c", exit code: 1
+  at unify_builder.Program.compileByMulThread (System.Int32 thrNum, unify_builder.CmdGenerator+CmdInfo[] cmds, System.Collections.Generic.List`1[T] doneList) [0x000e4] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+  at unify_builder.Program.Main (System.String[] args) [0x0149e] in <ebd0cb5fe6cf45b8b5052a372703e543>:0 
+
+[2021-12-08 19:21:55]	[done]
+	build successfully !
+

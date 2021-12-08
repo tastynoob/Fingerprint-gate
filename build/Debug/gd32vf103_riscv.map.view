@@ -1,0 +1,2 @@
+tool: GCC
+fileName: gd32vf103_riscv.map
